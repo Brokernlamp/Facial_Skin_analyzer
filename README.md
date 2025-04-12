@@ -46,8 +46,5 @@ git commit -m "Added project description"
 git push origin main  
 ```  
 
-Now, GitHub will automatically display this README file when someone visits your repository! 🎉 🚀  
 
----  
-### 🏁 **Happy Coding! 😊✨**  
 
